@@ -8,3 +8,4 @@ vim.o.shell = "fish"
 
 1. markview 命令行内快速阅读markdown文件
 2. snacks 修改启动画面
+3. 需要安装字体noto-fonts-emoji显示部分emoji图标
