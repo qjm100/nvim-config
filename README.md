@@ -4,8 +4,6 @@
 vim.o.shell = "fish"
 ```
 
-## 个人安装的插件在lua/plugins.lua中，主要是以下几个插件
 
-1. markview 命令行内快速阅读markdown文件
-2. snacks 修改启动画面
-3. 需要安装字体noto-fonts-emoji显示部分emoji图标
+
+## 需安装 noto-fonts-emoji, ttf-jetbrains-mono-nerd 
